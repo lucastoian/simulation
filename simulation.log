@@ -1,0 +1,1074 @@
+2025-11-28 14:53:48,857 [INFO] Starting hospital simulation experiments
+2025-11-28 14:53:48,857 [INFO] Starting independent experiments with different seeds
+2025-11-28 14:53:48,857 [INFO] Running config 3P4R with 20 replications
+2025-11-28 14:53:48,857 [DEBUG] Replication 1 for config 3P4R with seed 10000
+2025-11-28 14:53:48,857 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10000, scenario=original
+2025-11-28 14:53:48,857 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,858 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,862 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.410000, avg_prep_idle=1.119000, prob_rec_full=0.000000
+2025-11-28 14:53:48,863 [DEBUG] Replication 2 for config 3P4R with seed 10001
+2025-11-28 14:53:48,863 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10001, scenario=original
+2025-11-28 14:53:48,863 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,863 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,869 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.021000, avg_prep_idle=1.491000, prob_rec_full=0.000000
+2025-11-28 14:53:48,869 [DEBUG] Replication 3 for config 3P4R with seed 10002
+2025-11-28 14:53:48,869 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10002, scenario=original
+2025-11-28 14:53:48,869 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,871 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,878 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.442000, avg_prep_idle=1.265000, prob_rec_full=0.000000
+2025-11-28 14:53:48,878 [DEBUG] Replication 4 for config 3P4R with seed 10003
+2025-11-28 14:53:48,878 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10003, scenario=original
+2025-11-28 14:53:48,879 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,880 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,887 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.066000, avg_prep_idle=1.611000, prob_rec_full=0.000000
+2025-11-28 14:53:48,888 [DEBUG] Replication 5 for config 3P4R with seed 10004
+2025-11-28 14:53:48,888 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10004, scenario=original
+2025-11-28 14:53:48,888 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,889 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,897 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.020000, avg_prep_idle=1.825000, prob_rec_full=0.000000
+2025-11-28 14:53:48,897 [DEBUG] Replication 6 for config 3P4R with seed 10005
+2025-11-28 14:53:48,897 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10005, scenario=original
+2025-11-28 14:53:48,897 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,898 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,903 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.085000, avg_prep_idle=1.376000, prob_rec_full=0.000000
+2025-11-28 14:53:48,903 [DEBUG] Replication 7 for config 3P4R with seed 10006
+2025-11-28 14:53:48,903 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10006, scenario=original
+2025-11-28 14:53:48,903 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,904 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,911 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.189000, avg_prep_idle=1.524000, prob_rec_full=0.000000
+2025-11-28 14:53:48,911 [DEBUG] Replication 8 for config 3P4R with seed 10007
+2025-11-28 14:53:48,911 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10007, scenario=original
+2025-11-28 14:53:48,912 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,913 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,922 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.030000, avg_prep_idle=1.452000, prob_rec_full=0.000000
+2025-11-28 14:53:48,922 [DEBUG] Replication 9 for config 3P4R with seed 10008
+2025-11-28 14:53:48,922 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10008, scenario=original
+2025-11-28 14:53:48,923 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,923 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,928 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.376000, avg_prep_idle=1.151000, prob_rec_full=0.000000
+2025-11-28 14:53:48,928 [DEBUG] Replication 10 for config 3P4R with seed 10009
+2025-11-28 14:53:48,928 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10009, scenario=original
+2025-11-28 14:53:48,928 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,929 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,933 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.018000, avg_prep_idle=1.653000, prob_rec_full=0.000000
+2025-11-28 14:53:48,934 [DEBUG] Replication 11 for config 3P4R with seed 10010
+2025-11-28 14:53:48,934 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10010, scenario=original
+2025-11-28 14:53:48,934 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,935 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,941 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.094000, avg_prep_idle=1.083000, prob_rec_full=0.000000
+2025-11-28 14:53:48,941 [DEBUG] Replication 12 for config 3P4R with seed 10011
+2025-11-28 14:53:48,941 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10011, scenario=original
+2025-11-28 14:53:48,942 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,944 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,949 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.723000, avg_prep_idle=1.193000, prob_rec_full=0.000000
+2025-11-28 14:53:48,949 [DEBUG] Replication 13 for config 3P4R with seed 10012
+2025-11-28 14:53:48,949 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10012, scenario=original
+2025-11-28 14:53:48,949 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,950 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,954 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.065000, avg_prep_idle=1.567000, prob_rec_full=0.000000
+2025-11-28 14:53:48,954 [DEBUG] Replication 14 for config 3P4R with seed 10013
+2025-11-28 14:53:48,954 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10013, scenario=original
+2025-11-28 14:53:48,955 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,955 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,961 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.146000, avg_prep_idle=1.148000, prob_rec_full=0.000000
+2025-11-28 14:53:48,961 [DEBUG] Replication 15 for config 3P4R with seed 10014
+2025-11-28 14:53:48,961 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10014, scenario=original
+2025-11-28 14:53:48,961 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,962 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,967 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.730000, avg_prep_idle=0.942000, prob_rec_full=0.000000
+2025-11-28 14:53:48,967 [DEBUG] Replication 16 for config 3P4R with seed 10015
+2025-11-28 14:53:48,967 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10015, scenario=original
+2025-11-28 14:53:48,967 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,968 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,972 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.220000, avg_prep_idle=1.412000, prob_rec_full=0.000000
+2025-11-28 14:53:48,972 [DEBUG] Replication 17 for config 3P4R with seed 10016
+2025-11-28 14:53:48,972 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10016, scenario=original
+2025-11-28 14:53:48,973 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,973 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,978 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.014000, avg_prep_idle=1.472000, prob_rec_full=0.000000
+2025-11-28 14:53:48,978 [DEBUG] Replication 18 for config 3P4R with seed 10017
+2025-11-28 14:53:48,978 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10017, scenario=original
+2025-11-28 14:53:48,979 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,979 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,987 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.095000, avg_prep_idle=1.428000, prob_rec_full=0.000000
+2025-11-28 14:53:48,987 [DEBUG] Replication 19 for config 3P4R with seed 10018
+2025-11-28 14:53:48,987 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10018, scenario=original
+2025-11-28 14:53:48,988 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,989 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,993 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.009000, avg_prep_idle=1.423000, prob_rec_full=0.000000
+2025-11-28 14:53:48,993 [DEBUG] Replication 20 for config 3P4R with seed 10019
+2025-11-28 14:53:48,993 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=10019, scenario=original
+2025-11-28 14:53:48,993 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:48,994 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:48,999 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.070000, avg_prep_idle=1.294000, prob_rec_full=0.000000
+2025-11-28 14:53:48,999 [INFO] P(block OR): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:48,999 [INFO] avg queue before prep: mean=0.191150, 95%CI=(0.085075,0.297225), rel_half_width=0.5549
+2025-11-28 14:53:48,999 [INFO] avg idle capacity in prep: mean=1.371450, 95%CI=(1.268390,1.474510), rel_half_width=0.0751
+2025-11-28 14:53:48,999 [INFO] P(all recovery busy): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:48,999 [INFO] Running config 3P5R with 20 replications
+2025-11-28 14:53:49,000 [DEBUG] Replication 1 for config 3P5R with seed 11000
+2025-11-28 14:53:49,000 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11000, scenario=original
+2025-11-28 14:53:49,000 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,001 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,006 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.869000, avg_prep_idle=1.081000, prob_rec_full=0.000000
+2025-11-28 14:53:49,006 [DEBUG] Replication 2 for config 3P5R with seed 11001
+2025-11-28 14:53:49,006 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11001, scenario=original
+2025-11-28 14:53:49,006 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,008 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,012 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.684000, avg_prep_idle=1.086000, prob_rec_full=0.000000
+2025-11-28 14:53:49,013 [DEBUG] Replication 3 for config 3P5R with seed 11002
+2025-11-28 14:53:49,013 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11002, scenario=original
+2025-11-28 14:53:49,013 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,014 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,023 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.160000, avg_prep_idle=1.584000, prob_rec_full=0.000000
+2025-11-28 14:53:49,023 [DEBUG] Replication 4 for config 3P5R with seed 11003
+2025-11-28 14:53:49,024 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11003, scenario=original
+2025-11-28 14:53:49,024 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,025 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,033 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.048000, avg_prep_idle=1.661000, prob_rec_full=0.000000
+2025-11-28 14:53:49,034 [DEBUG] Replication 5 for config 3P5R with seed 11004
+2025-11-28 14:53:49,034 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11004, scenario=original
+2025-11-28 14:53:49,034 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,036 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,044 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.152000, avg_prep_idle=1.218000, prob_rec_full=0.000000
+2025-11-28 14:53:49,044 [DEBUG] Replication 6 for config 3P5R with seed 11005
+2025-11-28 14:53:49,044 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11005, scenario=original
+2025-11-28 14:53:49,045 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,046 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,052 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.304000, avg_prep_idle=1.510000, prob_rec_full=0.000000
+2025-11-28 14:53:49,052 [DEBUG] Replication 7 for config 3P5R with seed 11006
+2025-11-28 14:53:49,052 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11006, scenario=original
+2025-11-28 14:53:49,053 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,054 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,058 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.221000, avg_prep_idle=1.191000, prob_rec_full=0.000000
+2025-11-28 14:53:49,058 [DEBUG] Replication 8 for config 3P5R with seed 11007
+2025-11-28 14:53:49,058 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11007, scenario=original
+2025-11-28 14:53:49,059 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,060 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,067 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.207000, avg_prep_idle=1.212000, prob_rec_full=0.000000
+2025-11-28 14:53:49,067 [DEBUG] Replication 9 for config 3P5R with seed 11008
+2025-11-28 14:53:49,067 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11008, scenario=original
+2025-11-28 14:53:49,068 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,069 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,075 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.091000, avg_prep_idle=1.439000, prob_rec_full=0.000000
+2025-11-28 14:53:49,075 [DEBUG] Replication 10 for config 3P5R with seed 11009
+2025-11-28 14:53:49,075 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11009, scenario=original
+2025-11-28 14:53:49,075 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,076 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,081 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.090000, avg_prep_idle=1.510000, prob_rec_full=0.000000
+2025-11-28 14:53:49,081 [DEBUG] Replication 11 for config 3P5R with seed 11010
+2025-11-28 14:53:49,081 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11010, scenario=original
+2025-11-28 14:53:49,082 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,083 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,087 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=1.526000, prob_rec_full=0.000000
+2025-11-28 14:53:49,087 [DEBUG] Replication 12 for config 3P5R with seed 11011
+2025-11-28 14:53:49,087 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11011, scenario=original
+2025-11-28 14:53:49,087 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,088 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,093 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.860000, avg_prep_idle=1.035000, prob_rec_full=0.000000
+2025-11-28 14:53:49,093 [DEBUG] Replication 13 for config 3P5R with seed 11012
+2025-11-28 14:53:49,093 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11012, scenario=original
+2025-11-28 14:53:49,093 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,094 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,098 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.212000, avg_prep_idle=0.913000, prob_rec_full=0.000000
+2025-11-28 14:53:49,099 [DEBUG] Replication 14 for config 3P5R with seed 11013
+2025-11-28 14:53:49,099 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11013, scenario=original
+2025-11-28 14:53:49,099 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,100 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,104 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.330000, avg_prep_idle=1.233000, prob_rec_full=0.000000
+2025-11-28 14:53:49,104 [DEBUG] Replication 15 for config 3P5R with seed 11014
+2025-11-28 14:53:49,104 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11014, scenario=original
+2025-11-28 14:53:49,104 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,105 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,110 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.034000, avg_prep_idle=1.748000, prob_rec_full=0.000000
+2025-11-28 14:53:49,110 [DEBUG] Replication 16 for config 3P5R with seed 11015
+2025-11-28 14:53:49,110 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11015, scenario=original
+2025-11-28 14:53:49,111 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,111 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,118 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.121000, avg_prep_idle=1.395000, prob_rec_full=0.000000
+2025-11-28 14:53:49,118 [DEBUG] Replication 17 for config 3P5R with seed 11016
+2025-11-28 14:53:49,118 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11016, scenario=original
+2025-11-28 14:53:49,118 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,119 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,126 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.435000, avg_prep_idle=1.086000, prob_rec_full=0.000000
+2025-11-28 14:53:49,126 [DEBUG] Replication 18 for config 3P5R with seed 11017
+2025-11-28 14:53:49,126 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11017, scenario=original
+2025-11-28 14:53:49,126 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,127 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,132 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.161000, avg_prep_idle=1.764000, prob_rec_full=0.000000
+2025-11-28 14:53:49,132 [DEBUG] Replication 19 for config 3P5R with seed 11018
+2025-11-28 14:53:49,132 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11018, scenario=original
+2025-11-28 14:53:49,132 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,133 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,138 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.170000, avg_prep_idle=1.124000, prob_rec_full=0.000000
+2025-11-28 14:53:49,138 [DEBUG] Replication 20 for config 3P5R with seed 11019
+2025-11-28 14:53:49,138 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=11019, scenario=original
+2025-11-28 14:53:49,139 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,139 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,144 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.173000, avg_prep_idle=1.300000, prob_rec_full=0.000000
+2025-11-28 14:53:49,144 [INFO] P(block OR): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:49,145 [INFO] avg queue before prep: mean=0.266100, 95%CI=(0.146465,0.385735), rel_half_width=0.4496
+2025-11-28 14:53:49,145 [INFO] avg idle capacity in prep: mean=1.330800, 95%CI=(1.213331,1.448269), rel_half_width=0.0883
+2025-11-28 14:53:49,145 [INFO] P(all recovery busy): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:49,145 [INFO] Running config 4P5R with 20 replications
+2025-11-28 14:53:49,145 [DEBUG] Replication 1 for config 4P5R with seed 12000
+2025-11-28 14:53:49,145 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12000, scenario=original
+2025-11-28 14:53:49,145 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,147 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,152 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.128000, avg_prep_idle=2.271000, prob_rec_full=0.000000
+2025-11-28 14:53:49,152 [DEBUG] Replication 2 for config 4P5R with seed 12001
+2025-11-28 14:53:49,153 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12001, scenario=original
+2025-11-28 14:53:49,153 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,154 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,161 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.006000, avg_prep_idle=2.204000, prob_rec_full=0.000000
+2025-11-28 14:53:49,161 [DEBUG] Replication 3 for config 4P5R with seed 12002
+2025-11-28 14:53:49,161 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12002, scenario=original
+2025-11-28 14:53:49,161 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,162 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,172 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.007000, avg_prep_idle=2.400000, prob_rec_full=0.000000
+2025-11-28 14:53:49,172 [DEBUG] Replication 4 for config 4P5R with seed 12003
+2025-11-28 14:53:49,172 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12003, scenario=original
+2025-11-28 14:53:49,172 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,174 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,181 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.016000, avg_prep_idle=2.491000, prob_rec_full=0.000000
+2025-11-28 14:53:49,181 [DEBUG] Replication 5 for config 4P5R with seed 12004
+2025-11-28 14:53:49,182 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12004, scenario=original
+2025-11-28 14:53:49,182 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,183 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,188 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.029000, avg_prep_idle=2.400000, prob_rec_full=0.000000
+2025-11-28 14:53:49,188 [DEBUG] Replication 6 for config 4P5R with seed 12005
+2025-11-28 14:53:49,188 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12005, scenario=original
+2025-11-28 14:53:49,188 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,189 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,195 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.059000, avg_prep_idle=2.299000, prob_rec_full=0.000000
+2025-11-28 14:53:49,195 [DEBUG] Replication 7 for config 4P5R with seed 12006
+2025-11-28 14:53:49,195 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12006, scenario=original
+2025-11-28 14:53:49,195 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,196 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,201 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.001000, avg_prep_idle=2.454000, prob_rec_full=0.000000
+2025-11-28 14:53:49,201 [DEBUG] Replication 8 for config 4P5R with seed 12007
+2025-11-28 14:53:49,201 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12007, scenario=original
+2025-11-28 14:53:49,201 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,203 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,207 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.731000, prob_rec_full=0.000000
+2025-11-28 14:53:49,207 [DEBUG] Replication 9 for config 4P5R with seed 12008
+2025-11-28 14:53:49,207 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12008, scenario=original
+2025-11-28 14:53:49,208 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,208 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,216 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.709000, prob_rec_full=0.000000
+2025-11-28 14:53:49,216 [DEBUG] Replication 10 for config 4P5R with seed 12009
+2025-11-28 14:53:49,216 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12009, scenario=original
+2025-11-28 14:53:49,216 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,217 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,222 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.022000, avg_prep_idle=2.302000, prob_rec_full=0.000000
+2025-11-28 14:53:49,222 [DEBUG] Replication 11 for config 4P5R with seed 12010
+2025-11-28 14:53:49,222 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12010, scenario=original
+2025-11-28 14:53:49,222 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,223 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,229 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.026000, avg_prep_idle=1.904000, prob_rec_full=0.000000
+2025-11-28 14:53:49,229 [DEBUG] Replication 12 for config 4P5R with seed 12011
+2025-11-28 14:53:49,229 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12011, scenario=original
+2025-11-28 14:53:49,229 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,230 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,239 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.016000, avg_prep_idle=1.833000, prob_rec_full=0.000000
+2025-11-28 14:53:49,239 [DEBUG] Replication 13 for config 4P5R with seed 12012
+2025-11-28 14:53:49,239 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12012, scenario=original
+2025-11-28 14:53:49,239 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,240 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,245 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.103000, avg_prep_idle=2.025000, prob_rec_full=0.000000
+2025-11-28 14:53:49,245 [DEBUG] Replication 14 for config 4P5R with seed 12013
+2025-11-28 14:53:49,245 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12013, scenario=original
+2025-11-28 14:53:49,245 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,246 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,251 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.015000, avg_prep_idle=2.094000, prob_rec_full=0.000000
+2025-11-28 14:53:49,251 [DEBUG] Replication 15 for config 4P5R with seed 12014
+2025-11-28 14:53:49,252 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12014, scenario=original
+2025-11-28 14:53:49,252 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,252 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,257 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.045000, avg_prep_idle=2.174000, prob_rec_full=0.000000
+2025-11-28 14:53:49,257 [DEBUG] Replication 16 for config 4P5R with seed 12015
+2025-11-28 14:53:49,257 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12015, scenario=original
+2025-11-28 14:53:49,258 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,258 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,264 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.589000, prob_rec_full=0.000000
+2025-11-28 14:53:49,264 [DEBUG] Replication 17 for config 4P5R with seed 12016
+2025-11-28 14:53:49,264 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12016, scenario=original
+2025-11-28 14:53:49,264 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,265 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,270 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.050000, avg_prep_idle=2.427000, prob_rec_full=0.000000
+2025-11-28 14:53:49,270 [DEBUG] Replication 18 for config 4P5R with seed 12017
+2025-11-28 14:53:49,270 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12017, scenario=original
+2025-11-28 14:53:49,271 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,272 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,278 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.490000, prob_rec_full=0.000000
+2025-11-28 14:53:49,278 [DEBUG] Replication 19 for config 4P5R with seed 12018
+2025-11-28 14:53:49,278 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12018, scenario=original
+2025-11-28 14:53:49,278 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,279 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,284 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.082000, avg_prep_idle=2.552000, prob_rec_full=0.000000
+2025-11-28 14:53:49,284 [DEBUG] Replication 20 for config 4P5R with seed 12019
+2025-11-28 14:53:49,284 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=12019, scenario=original
+2025-11-28 14:53:49,284 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,285 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,290 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.319000, prob_rec_full=0.000000
+2025-11-28 14:53:49,290 [INFO] P(block OR): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:49,290 [INFO] avg queue before prep: mean=0.030250, 95%CI=(0.012856,0.047644), rel_half_width=0.5750
+2025-11-28 14:53:49,291 [INFO] avg idle capacity in prep: mean=2.333400, 95%CI=(2.219294,2.447506), rel_half_width=0.0489
+2025-11-28 14:53:49,291 [INFO] P(all recovery busy): mean=0.000000, 95%CI=(0.000000,0.000000), mean is zero (relative width not defined)
+2025-11-28 14:53:49,291 [INFO] Starting CRN experiments
+2025-11-28 14:53:49,291 [DEBUG] CRN replication 1 with shared seed 20000
+2025-11-28 14:53:49,291 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20000, scenario=original
+2025-11-28 14:53:49,291 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,292 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,297 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.238000, avg_prep_idle=0.964000, prob_rec_full=0.000000
+2025-11-28 14:53:49,297 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20000, scenario=original
+2025-11-28 14:53:49,298 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,299 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,305 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.238000, avg_prep_idle=0.964000, prob_rec_full=0.000000
+2025-11-28 14:53:49,305 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20000, scenario=original
+2025-11-28 14:53:49,306 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,307 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,317 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.017000, avg_prep_idle=1.918000, prob_rec_full=0.000000
+2025-11-28 14:53:49,317 [DEBUG] CRN replication 2 with shared seed 20001
+2025-11-28 14:53:49,317 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20001, scenario=original
+2025-11-28 14:53:49,317 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,319 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,329 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.196000, avg_prep_idle=1.257000, prob_rec_full=0.000000
+2025-11-28 14:53:49,329 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20001, scenario=original
+2025-11-28 14:53:49,329 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,330 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,336 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.196000, avg_prep_idle=1.257000, prob_rec_full=0.000000
+2025-11-28 14:53:49,337 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20001, scenario=original
+2025-11-28 14:53:49,337 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,338 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,344 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.017000, avg_prep_idle=2.256000, prob_rec_full=0.000000
+2025-11-28 14:53:49,344 [DEBUG] CRN replication 3 with shared seed 20002
+2025-11-28 14:53:49,344 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20002, scenario=original
+2025-11-28 14:53:49,344 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,346 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,352 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.305000, avg_prep_idle=1.226000, prob_rec_full=0.000000
+2025-11-28 14:53:49,352 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20002, scenario=original
+2025-11-28 14:53:49,352 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,354 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,359 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.305000, avg_prep_idle=1.226000, prob_rec_full=0.000000
+2025-11-28 14:53:49,360 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20002, scenario=original
+2025-11-28 14:53:49,360 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,361 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,367 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.037000, avg_prep_idle=2.251000, prob_rec_full=0.000000
+2025-11-28 14:53:49,367 [DEBUG] CRN replication 4 with shared seed 20003
+2025-11-28 14:53:49,367 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20003, scenario=original
+2025-11-28 14:53:49,367 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,368 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,374 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=1.199000, prob_rec_full=0.000000
+2025-11-28 14:53:49,374 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20003, scenario=original
+2025-11-28 14:53:49,374 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,375 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,380 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=1.199000, prob_rec_full=0.000000
+2025-11-28 14:53:49,380 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20003, scenario=original
+2025-11-28 14:53:49,381 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,382 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,387 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.195000, prob_rec_full=0.000000
+2025-11-28 14:53:49,387 [DEBUG] CRN replication 5 with shared seed 20004
+2025-11-28 14:53:49,387 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20004, scenario=original
+2025-11-28 14:53:49,387 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,388 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,393 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.699000, avg_prep_idle=1.312000, prob_rec_full=0.000000
+2025-11-28 14:53:49,393 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20004, scenario=original
+2025-11-28 14:53:49,394 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,394 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,400 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.699000, avg_prep_idle=1.312000, prob_rec_full=0.000000
+2025-11-28 14:53:49,400 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20004, scenario=original
+2025-11-28 14:53:49,400 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,401 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,406 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.119000, avg_prep_idle=2.202000, prob_rec_full=0.000000
+2025-11-28 14:53:49,406 [DEBUG] CRN replication 6 with shared seed 20005
+2025-11-28 14:53:49,407 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20005, scenario=original
+2025-11-28 14:53:49,407 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,407 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,412 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.018000, avg_prep_idle=1.719000, prob_rec_full=0.000000
+2025-11-28 14:53:49,412 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20005, scenario=original
+2025-11-28 14:53:49,412 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,413 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,418 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.018000, avg_prep_idle=1.719000, prob_rec_full=0.000000
+2025-11-28 14:53:49,419 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20005, scenario=original
+2025-11-28 14:53:49,419 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,420 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,426 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.002000, avg_prep_idle=2.719000, prob_rec_full=0.000000
+2025-11-28 14:53:49,426 [DEBUG] CRN replication 7 with shared seed 20006
+2025-11-28 14:53:49,426 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20006, scenario=original
+2025-11-28 14:53:49,426 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,427 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,432 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.434000, avg_prep_idle=1.084000, prob_rec_full=0.000000
+2025-11-28 14:53:49,432 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20006, scenario=original
+2025-11-28 14:53:49,432 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,433 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,439 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.434000, avg_prep_idle=1.084000, prob_rec_full=0.000000
+2025-11-28 14:53:49,439 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20006, scenario=original
+2025-11-28 14:53:49,440 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,440 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,446 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.072000, avg_prep_idle=2.083000, prob_rec_full=0.000000
+2025-11-28 14:53:49,446 [DEBUG] CRN replication 8 with shared seed 20007
+2025-11-28 14:53:49,446 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20007, scenario=original
+2025-11-28 14:53:49,446 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,447 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,453 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.145000, avg_prep_idle=1.523000, prob_rec_full=0.000000
+2025-11-28 14:53:49,453 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20007, scenario=original
+2025-11-28 14:53:49,453 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,454 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,460 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.145000, avg_prep_idle=1.523000, prob_rec_full=0.000000
+2025-11-28 14:53:49,460 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20007, scenario=original
+2025-11-28 14:53:49,460 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,461 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,466 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.009000, avg_prep_idle=2.515000, prob_rec_full=0.000000
+2025-11-28 14:53:49,466 [DEBUG] CRN replication 9 with shared seed 20008
+2025-11-28 14:53:49,466 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20008, scenario=original
+2025-11-28 14:53:49,466 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,467 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,472 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.052000, prob_rec_full=0.000000
+2025-11-28 14:53:49,472 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20008, scenario=original
+2025-11-28 14:53:49,473 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,473 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,478 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.052000, prob_rec_full=0.000000
+2025-11-28 14:53:49,478 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20008, scenario=original
+2025-11-28 14:53:49,478 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,479 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,484 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=3.052000, prob_rec_full=0.000000
+2025-11-28 14:53:49,484 [DEBUG] CRN replication 10 with shared seed 20009
+2025-11-28 14:53:49,484 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20009, scenario=original
+2025-11-28 14:53:49,484 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,485 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,491 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.567000, avg_prep_idle=1.200000, prob_rec_full=0.000000
+2025-11-28 14:53:49,491 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20009, scenario=original
+2025-11-28 14:53:49,491 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,492 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,504 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.567000, avg_prep_idle=1.200000, prob_rec_full=0.000000
+2025-11-28 14:53:49,504 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20009, scenario=original
+2025-11-28 14:53:49,504 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,505 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,510 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.103000, avg_prep_idle=2.196000, prob_rec_full=0.000000
+2025-11-28 14:53:49,511 [DEBUG] CRN replication 11 with shared seed 20010
+2025-11-28 14:53:49,511 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20010, scenario=original
+2025-11-28 14:53:49,511 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,512 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,517 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.180000, avg_prep_idle=1.437000, prob_rec_full=0.000000
+2025-11-28 14:53:49,517 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20010, scenario=original
+2025-11-28 14:53:49,517 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,518 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,523 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.180000, avg_prep_idle=1.437000, prob_rec_full=0.000000
+2025-11-28 14:53:49,523 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20010, scenario=original
+2025-11-28 14:53:49,523 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,524 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,531 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.004000, avg_prep_idle=2.438000, prob_rec_full=0.000000
+2025-11-28 14:53:49,531 [DEBUG] CRN replication 12 with shared seed 20011
+2025-11-28 14:53:49,531 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20011, scenario=original
+2025-11-28 14:53:49,532 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,533 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,537 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=1.743000, prob_rec_full=0.000000
+2025-11-28 14:53:49,537 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20011, scenario=original
+2025-11-28 14:53:49,537 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,538 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,543 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=1.743000, prob_rec_full=0.000000
+2025-11-28 14:53:49,543 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20011, scenario=original
+2025-11-28 14:53:49,543 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,544 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,548 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.012000, avg_prep_idle=2.755000, prob_rec_full=0.000000
+2025-11-28 14:53:49,548 [DEBUG] CRN replication 13 with shared seed 20012
+2025-11-28 14:53:49,548 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20012, scenario=original
+2025-11-28 14:53:49,548 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,549 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,554 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.026000, avg_prep_idle=1.777000, prob_rec_full=0.000000
+2025-11-28 14:53:49,554 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20012, scenario=original
+2025-11-28 14:53:49,554 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,555 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,560 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.026000, avg_prep_idle=1.777000, prob_rec_full=0.000000
+2025-11-28 14:53:49,560 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20012, scenario=original
+2025-11-28 14:53:49,560 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,561 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,567 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.001000, avg_prep_idle=2.780000, prob_rec_full=0.000000
+2025-11-28 14:53:49,567 [DEBUG] CRN replication 14 with shared seed 20013
+2025-11-28 14:53:49,567 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20013, scenario=original
+2025-11-28 14:53:49,567 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,568 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,575 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.456000, avg_prep_idle=1.365000, prob_rec_full=0.000000
+2025-11-28 14:53:49,575 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20013, scenario=original
+2025-11-28 14:53:49,575 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,576 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,581 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.456000, avg_prep_idle=1.365000, prob_rec_full=0.000000
+2025-11-28 14:53:49,581 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20013, scenario=original
+2025-11-28 14:53:49,581 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,582 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,587 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.043000, avg_prep_idle=2.375000, prob_rec_full=0.000000
+2025-11-28 14:53:49,587 [DEBUG] CRN replication 15 with shared seed 20014
+2025-11-28 14:53:49,587 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20014, scenario=original
+2025-11-28 14:53:49,587 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,588 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,594 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.229000, avg_prep_idle=1.520000, prob_rec_full=0.000000
+2025-11-28 14:53:49,594 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20014, scenario=original
+2025-11-28 14:53:49,594 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,595 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,600 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.229000, avg_prep_idle=1.520000, prob_rec_full=0.000000
+2025-11-28 14:53:49,600 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20014, scenario=original
+2025-11-28 14:53:49,600 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,601 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,607 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.110000, avg_prep_idle=2.475000, prob_rec_full=0.000000
+2025-11-28 14:53:49,607 [DEBUG] CRN replication 16 with shared seed 20015
+2025-11-28 14:53:49,607 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20015, scenario=original
+2025-11-28 14:53:49,608 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,609 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,614 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.005000, avg_prep_idle=1.785000, prob_rec_full=0.000000
+2025-11-28 14:53:49,614 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20015, scenario=original
+2025-11-28 14:53:49,614 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,615 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,620 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.005000, avg_prep_idle=1.785000, prob_rec_full=0.000000
+2025-11-28 14:53:49,620 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20015, scenario=original
+2025-11-28 14:53:49,620 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,621 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,626 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.785000, prob_rec_full=0.000000
+2025-11-28 14:53:49,626 [DEBUG] CRN replication 17 with shared seed 20016
+2025-11-28 14:53:49,626 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20016, scenario=original
+2025-11-28 14:53:49,626 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,627 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,634 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.240000, avg_prep_idle=0.887000, prob_rec_full=0.000000
+2025-11-28 14:53:49,634 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20016, scenario=original
+2025-11-28 14:53:49,634 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,635 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,640 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.240000, avg_prep_idle=0.887000, prob_rec_full=0.000000
+2025-11-28 14:53:49,641 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20016, scenario=original
+2025-11-28 14:53:49,641 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,642 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,648 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.018000, avg_prep_idle=1.880000, prob_rec_full=0.000000
+2025-11-28 14:53:49,648 [DEBUG] CRN replication 18 with shared seed 20017
+2025-11-28 14:53:49,648 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20017, scenario=original
+2025-11-28 14:53:49,649 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,650 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,655 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.238000, avg_prep_idle=1.382000, prob_rec_full=0.000000
+2025-11-28 14:53:49,655 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20017, scenario=original
+2025-11-28 14:53:49,655 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,656 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,661 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.238000, avg_prep_idle=1.382000, prob_rec_full=0.000000
+2025-11-28 14:53:49,661 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20017, scenario=original
+2025-11-28 14:53:49,661 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,662 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,667 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.024000, avg_prep_idle=2.383000, prob_rec_full=0.000000
+2025-11-28 14:53:49,667 [DEBUG] CRN replication 19 with shared seed 20018
+2025-11-28 14:53:49,667 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20018, scenario=original
+2025-11-28 14:53:49,667 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,668 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,672 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.082000, avg_prep_idle=1.900000, prob_rec_full=0.000000
+2025-11-28 14:53:49,672 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20018, scenario=original
+2025-11-28 14:53:49,673 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,673 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,680 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.082000, avg_prep_idle=1.900000, prob_rec_full=0.000000
+2025-11-28 14:53:49,680 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20018, scenario=original
+2025-11-28 14:53:49,680 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,681 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,688 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.017000, avg_prep_idle=2.899000, prob_rec_full=0.000000
+2025-11-28 14:53:49,688 [DEBUG] CRN replication 20 with shared seed 20019
+2025-11-28 14:53:49,688 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=20019, scenario=original
+2025-11-28 14:53:49,689 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,689 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,695 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.709000, avg_prep_idle=1.282000, prob_rec_full=0.000000
+2025-11-28 14:53:49,695 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20019, scenario=original
+2025-11-28 14:53:49,695 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,696 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,702 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.709000, avg_prep_idle=1.282000, prob_rec_full=0.000000
+2025-11-28 14:53:49,703 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=20019, scenario=original
+2025-11-28 14:53:49,703 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,703 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,708 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.089000, avg_prep_idle=2.285000, prob_rec_full=0.000000
+2025-11-28 14:53:49,708 [INFO] 3P5R - 4P5R (block): mean_diff=0.000000, 95%CI=(0.000000,0.000000)
+2025-11-28 14:53:49,709 [INFO] 3P5R - 3P4R (block): mean_diff=0.000000, 95%CI=(0.000000,0.000000)
+2025-11-28 14:53:49,709 [INFO] 3P5R - 4P5R (q_prep): mean_diff=0.210950, 95%CI=(0.122848,0.299052)
+2025-11-28 14:53:49,709 [INFO] 3P5R - 3P4R (q_prep): mean_diff=0.000000, 95%CI=(0.000000,0.000000)
+2025-11-28 14:53:49,709 [INFO] Comparing CI widths for blocking vs recovery-full probabilities
+2025-11-28 14:53:49,709 [INFO] Config 3P4R: computing CI for block and recovery-full
+2025-11-28 14:53:49,709 [DEBUG] CI replication 1 for config 3P4R with seed 30000
+2025-11-28 14:53:49,709 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30000, scenario=original
+2025-11-28 14:53:49,709 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,711 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,718 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.006000, avg_prep_idle=1.746000, prob_rec_full=0.000000
+2025-11-28 14:53:49,718 [DEBUG] CI replication 2 for config 3P4R with seed 30001
+2025-11-28 14:53:49,718 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30001, scenario=original
+2025-11-28 14:53:49,718 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,719 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,728 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.445000, avg_prep_idle=1.132000, prob_rec_full=0.000000
+2025-11-28 14:53:49,728 [DEBUG] CI replication 3 for config 3P4R with seed 30002
+2025-11-28 14:53:49,728 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30002, scenario=original
+2025-11-28 14:53:49,728 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,730 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,740 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=1.332000, prob_rec_full=0.000000
+2025-11-28 14:53:49,740 [DEBUG] CI replication 4 for config 3P4R with seed 30003
+2025-11-28 14:53:49,740 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30003, scenario=original
+2025-11-28 14:53:49,740 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,742 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,750 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.299000, avg_prep_idle=0.815000, prob_rec_full=0.000000
+2025-11-28 14:53:49,751 [DEBUG] CI replication 5 for config 3P4R with seed 30004
+2025-11-28 14:53:49,751 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30004, scenario=original
+2025-11-28 14:53:49,751 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,752 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,761 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.808000, avg_prep_idle=1.166000, prob_rec_full=0.000000
+2025-11-28 14:53:49,761 [DEBUG] CI replication 6 for config 3P4R with seed 30005
+2025-11-28 14:53:49,761 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30005, scenario=original
+2025-11-28 14:53:49,761 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,762 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,770 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.242000, avg_prep_idle=1.632000, prob_rec_full=0.000000
+2025-11-28 14:53:49,770 [DEBUG] CI replication 7 for config 3P4R with seed 30006
+2025-11-28 14:53:49,770 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30006, scenario=original
+2025-11-28 14:53:49,771 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,772 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,779 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.285000, avg_prep_idle=1.478000, prob_rec_full=0.000000
+2025-11-28 14:53:49,780 [DEBUG] CI replication 8 for config 3P4R with seed 30007
+2025-11-28 14:53:49,780 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30007, scenario=original
+2025-11-28 14:53:49,780 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,781 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,789 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.099000, avg_prep_idle=1.654000, prob_rec_full=0.000000
+2025-11-28 14:53:49,789 [DEBUG] CI replication 9 for config 3P4R with seed 30008
+2025-11-28 14:53:49,789 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30008, scenario=original
+2025-11-28 14:53:49,789 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,791 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,799 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.390000, avg_prep_idle=1.304000, prob_rec_full=0.000000
+2025-11-28 14:53:49,799 [DEBUG] CI replication 10 for config 3P4R with seed 30009
+2025-11-28 14:53:49,799 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30009, scenario=original
+2025-11-28 14:53:49,799 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,800 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,809 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.032000, avg_prep_idle=1.694000, prob_rec_full=0.000000
+2025-11-28 14:53:49,809 [DEBUG] CI replication 11 for config 3P4R with seed 30010
+2025-11-28 14:53:49,809 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30010, scenario=original
+2025-11-28 14:53:49,809 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,811 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,816 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.966000, avg_prep_idle=0.937000, prob_rec_full=0.000000
+2025-11-28 14:53:49,816 [DEBUG] CI replication 12 for config 3P4R with seed 30011
+2025-11-28 14:53:49,816 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30011, scenario=original
+2025-11-28 14:53:49,816 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,817 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,822 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.410000, avg_prep_idle=1.396000, prob_rec_full=0.000000
+2025-11-28 14:53:49,822 [DEBUG] CI replication 13 for config 3P4R with seed 30012
+2025-11-28 14:53:49,822 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30012, scenario=original
+2025-11-28 14:53:49,822 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,824 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,829 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.010000, avg_prep_idle=1.825000, prob_rec_full=0.000000
+2025-11-28 14:53:49,829 [DEBUG] CI replication 14 for config 3P4R with seed 30013
+2025-11-28 14:53:49,829 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30013, scenario=original
+2025-11-28 14:53:49,829 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,830 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,837 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.833000, avg_prep_idle=1.121000, prob_rec_full=0.000000
+2025-11-28 14:53:49,837 [DEBUG] CI replication 15 for config 3P4R with seed 30014
+2025-11-28 14:53:49,837 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30014, scenario=original
+2025-11-28 14:53:49,837 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,838 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,844 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.485000, avg_prep_idle=1.099000, prob_rec_full=0.000000
+2025-11-28 14:53:49,844 [DEBUG] CI replication 16 for config 3P4R with seed 30015
+2025-11-28 14:53:49,844 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30015, scenario=original
+2025-11-28 14:53:49,844 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,845 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,851 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.843000, avg_prep_idle=1.179000, prob_rec_full=0.000000
+2025-11-28 14:53:49,851 [DEBUG] CI replication 17 for config 3P4R with seed 30016
+2025-11-28 14:53:49,851 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30016, scenario=original
+2025-11-28 14:53:49,851 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,852 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,857 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.139000, avg_prep_idle=1.489000, prob_rec_full=0.000000
+2025-11-28 14:53:49,857 [DEBUG] CI replication 18 for config 3P4R with seed 30017
+2025-11-28 14:53:49,857 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30017, scenario=original
+2025-11-28 14:53:49,858 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,858 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,863 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.031000, avg_prep_idle=2.155000, prob_rec_full=0.000000
+2025-11-28 14:53:49,863 [DEBUG] CI replication 19 for config 3P4R with seed 30018
+2025-11-28 14:53:49,863 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30018, scenario=original
+2025-11-28 14:53:49,863 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,864 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,870 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.051000, avg_prep_idle=1.983000, prob_rec_full=0.000000
+2025-11-28 14:53:49,870 [DEBUG] CI replication 20 for config 3P4R with seed 30019
+2025-11-28 14:53:49,870 [DEBUG] Running one replication: P=3, R=4, OP=1, sim_time=1000.000, warmup=200.000, seed=30019, scenario=original
+2025-11-28 14:53:49,870 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,871 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,878 [DEBUG] Replication finished: P=3, R=4, scenario=original, block_rate=0.000000, avg_qprep=0.223000, avg_prep_idle=1.334000, prob_rec_full=0.000000
+2025-11-28 14:53:49,878 [INFO] Config 3P4R: block mean=0.000000, half=0.000000, rel=-1.0000; rec_full mean=0.000000, half=0.000000, rel=-1.0000
+2025-11-28 14:53:49,878 [INFO] Config 3P5R: computing CI for block and recovery-full
+2025-11-28 14:53:49,878 [DEBUG] CI replication 1 for config 3P5R with seed 31000
+2025-11-28 14:53:49,878 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31000, scenario=original
+2025-11-28 14:53:49,878 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,879 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,884 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.059000, avg_prep_idle=1.788000, prob_rec_full=0.000000
+2025-11-28 14:53:49,884 [DEBUG] CI replication 2 for config 3P5R with seed 31001
+2025-11-28 14:53:49,884 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31001, scenario=original
+2025-11-28 14:53:49,884 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,885 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,891 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.071000, avg_prep_idle=1.531000, prob_rec_full=0.000000
+2025-11-28 14:53:49,891 [DEBUG] CI replication 3 for config 3P5R with seed 31002
+2025-11-28 14:53:49,891 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31002, scenario=original
+2025-11-28 14:53:49,891 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,893 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,903 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.529000, avg_prep_idle=1.269000, prob_rec_full=0.000000
+2025-11-28 14:53:49,903 [DEBUG] CI replication 4 for config 3P5R with seed 31003
+2025-11-28 14:53:49,903 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31003, scenario=original
+2025-11-28 14:53:49,904 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,905 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,916 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.444000, avg_prep_idle=0.983000, prob_rec_full=0.000000
+2025-11-28 14:53:49,917 [DEBUG] CI replication 5 for config 3P5R with seed 31004
+2025-11-28 14:53:49,917 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31004, scenario=original
+2025-11-28 14:53:49,917 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,919 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,924 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.027000, avg_prep_idle=1.788000, prob_rec_full=0.000000
+2025-11-28 14:53:49,924 [DEBUG] CI replication 6 for config 3P5R with seed 31005
+2025-11-28 14:53:49,924 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31005, scenario=original
+2025-11-28 14:53:49,925 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,926 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,931 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.238000, avg_prep_idle=1.162000, prob_rec_full=0.000000
+2025-11-28 14:53:49,931 [DEBUG] CI replication 7 for config 3P5R with seed 31006
+2025-11-28 14:53:49,931 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31006, scenario=original
+2025-11-28 14:53:49,931 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,932 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,937 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.071000, avg_prep_idle=1.607000, prob_rec_full=0.000000
+2025-11-28 14:53:49,938 [DEBUG] CI replication 8 for config 3P5R with seed 31007
+2025-11-28 14:53:49,938 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31007, scenario=original
+2025-11-28 14:53:49,938 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,939 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,947 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.477000, avg_prep_idle=1.489000, prob_rec_full=0.000000
+2025-11-28 14:53:49,947 [DEBUG] CI replication 9 for config 3P5R with seed 31008
+2025-11-28 14:53:49,947 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31008, scenario=original
+2025-11-28 14:53:49,947 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,949 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,958 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.043000, avg_prep_idle=1.939000, prob_rec_full=0.000000
+2025-11-28 14:53:49,958 [DEBUG] CI replication 10 for config 3P5R with seed 31009
+2025-11-28 14:53:49,958 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31009, scenario=original
+2025-11-28 14:53:49,958 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,960 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,967 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=2.615000, avg_prep_idle=0.897000, prob_rec_full=0.000000
+2025-11-28 14:53:49,967 [DEBUG] CI replication 11 for config 3P5R with seed 31010
+2025-11-28 14:53:49,967 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31010, scenario=original
+2025-11-28 14:53:49,968 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,969 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,979 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.181000, avg_prep_idle=1.174000, prob_rec_full=0.000000
+2025-11-28 14:53:49,979 [DEBUG] CI replication 12 for config 3P5R with seed 31011
+2025-11-28 14:53:49,979 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31011, scenario=original
+2025-11-28 14:53:49,979 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,980 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,985 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.043000, avg_prep_idle=1.495000, prob_rec_full=0.000000
+2025-11-28 14:53:49,985 [DEBUG] CI replication 13 for config 3P5R with seed 31012
+2025-11-28 14:53:49,986 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31012, scenario=original
+2025-11-28 14:53:49,986 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,987 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,993 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.832000, avg_prep_idle=1.037000, prob_rec_full=0.000000
+2025-11-28 14:53:49,993 [DEBUG] CI replication 14 for config 3P5R with seed 31013
+2025-11-28 14:53:49,993 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31013, scenario=original
+2025-11-28 14:53:49,993 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:49,994 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:49,999 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.206000, avg_prep_idle=1.365000, prob_rec_full=0.000000
+2025-11-28 14:53:50,000 [DEBUG] CI replication 15 for config 3P5R with seed 31014
+2025-11-28 14:53:50,000 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31014, scenario=original
+2025-11-28 14:53:50,000 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,001 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,007 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=1.186000, avg_prep_idle=0.846000, prob_rec_full=0.000000
+2025-11-28 14:53:50,007 [DEBUG] CI replication 16 for config 3P5R with seed 31015
+2025-11-28 14:53:50,007 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31015, scenario=original
+2025-11-28 14:53:50,007 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,008 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,014 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.137000, avg_prep_idle=1.283000, prob_rec_full=0.000000
+2025-11-28 14:53:50,014 [DEBUG] CI replication 17 for config 3P5R with seed 31016
+2025-11-28 14:53:50,014 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31016, scenario=original
+2025-11-28 14:53:50,014 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,016 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,021 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.466000, avg_prep_idle=1.776000, prob_rec_full=0.000000
+2025-11-28 14:53:50,021 [DEBUG] CI replication 18 for config 3P5R with seed 31017
+2025-11-28 14:53:50,021 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31017, scenario=original
+2025-11-28 14:53:50,021 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,022 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,032 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.414000, avg_prep_idle=1.009000, prob_rec_full=0.000000
+2025-11-28 14:53:50,032 [DEBUG] CI replication 19 for config 3P5R with seed 31018
+2025-11-28 14:53:50,032 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31018, scenario=original
+2025-11-28 14:53:50,032 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,033 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,038 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.361000, avg_prep_idle=1.156000, prob_rec_full=0.000000
+2025-11-28 14:53:50,039 [DEBUG] CI replication 20 for config 3P5R with seed 31019
+2025-11-28 14:53:50,039 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=31019, scenario=original
+2025-11-28 14:53:50,039 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,040 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,045 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.012000, avg_prep_idle=1.601000, prob_rec_full=0.000000
+2025-11-28 14:53:50,045 [INFO] Config 3P5R: block mean=0.000000, half=0.000000, rel=-1.0000; rec_full mean=0.000000, half=0.000000, rel=-1.0000
+2025-11-28 14:53:50,045 [INFO] Config 4P5R: computing CI for block and recovery-full
+2025-11-28 14:53:50,045 [DEBUG] CI replication 1 for config 4P5R with seed 32000
+2025-11-28 14:53:50,045 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32000, scenario=original
+2025-11-28 14:53:50,045 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,046 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,051 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.004000, avg_prep_idle=2.360000, prob_rec_full=0.000000
+2025-11-28 14:53:50,051 [DEBUG] CI replication 2 for config 4P5R with seed 32001
+2025-11-28 14:53:50,051 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32001, scenario=original
+2025-11-28 14:53:50,051 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,052 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,058 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.027000, avg_prep_idle=2.176000, prob_rec_full=0.000000
+2025-11-28 14:53:50,059 [DEBUG] CI replication 3 for config 4P5R with seed 32002
+2025-11-28 14:53:50,059 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32002, scenario=original
+2025-11-28 14:53:50,059 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,060 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,071 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.139000, prob_rec_full=0.000000
+2025-11-28 14:53:50,071 [DEBUG] CI replication 4 for config 4P5R with seed 32003
+2025-11-28 14:53:50,071 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32003, scenario=original
+2025-11-28 14:53:50,071 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,073 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,082 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.755000, prob_rec_full=0.000000
+2025-11-28 14:53:50,083 [DEBUG] CI replication 5 for config 4P5R with seed 32004
+2025-11-28 14:53:50,083 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32004, scenario=original
+2025-11-28 14:53:50,083 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,084 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,090 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.007000, avg_prep_idle=2.284000, prob_rec_full=0.000000
+2025-11-28 14:53:50,090 [DEBUG] CI replication 6 for config 4P5R with seed 32005
+2025-11-28 14:53:50,090 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32005, scenario=original
+2025-11-28 14:53:50,090 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,092 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,098 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.374000, avg_prep_idle=1.540000, prob_rec_full=0.000000
+2025-11-28 14:53:50,098 [DEBUG] CI replication 7 for config 4P5R with seed 32006
+2025-11-28 14:53:50,098 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32006, scenario=original
+2025-11-28 14:53:50,098 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,100 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,106 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.159000, avg_prep_idle=2.245000, prob_rec_full=0.000000
+2025-11-28 14:53:50,106 [DEBUG] CI replication 8 for config 4P5R with seed 32007
+2025-11-28 14:53:50,106 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32007, scenario=original
+2025-11-28 14:53:50,106 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,108 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,115 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.010000, avg_prep_idle=2.369000, prob_rec_full=0.000000
+2025-11-28 14:53:50,115 [DEBUG] CI replication 9 for config 4P5R with seed 32008
+2025-11-28 14:53:50,115 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32008, scenario=original
+2025-11-28 14:53:50,115 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,116 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,122 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.275000, prob_rec_full=0.000000
+2025-11-28 14:53:50,122 [DEBUG] CI replication 10 for config 4P5R with seed 32009
+2025-11-28 14:53:50,122 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32009, scenario=original
+2025-11-28 14:53:50,123 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,124 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,129 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=3.220000, prob_rec_full=0.000000
+2025-11-28 14:53:50,129 [DEBUG] CI replication 11 for config 4P5R with seed 32010
+2025-11-28 14:53:50,129 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32010, scenario=original
+2025-11-28 14:53:50,129 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,130 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,135 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.008000, avg_prep_idle=2.420000, prob_rec_full=0.000000
+2025-11-28 14:53:50,135 [DEBUG] CI replication 12 for config 4P5R with seed 32011
+2025-11-28 14:53:50,135 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32011, scenario=original
+2025-11-28 14:53:50,135 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,136 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,141 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.011000, avg_prep_idle=2.869000, prob_rec_full=0.000000
+2025-11-28 14:53:50,141 [DEBUG] CI replication 13 for config 4P5R with seed 32012
+2025-11-28 14:53:50,141 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32012, scenario=original
+2025-11-28 14:53:50,142 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,143 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,148 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.265000, prob_rec_full=0.000000
+2025-11-28 14:53:50,148 [DEBUG] CI replication 14 for config 4P5R with seed 32013
+2025-11-28 14:53:50,148 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32013, scenario=original
+2025-11-28 14:53:50,149 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,150 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,155 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.622000, prob_rec_full=0.000000
+2025-11-28 14:53:50,155 [DEBUG] CI replication 15 for config 4P5R with seed 32014
+2025-11-28 14:53:50,155 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32014, scenario=original
+2025-11-28 14:53:50,156 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,156 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,161 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.052000, avg_prep_idle=2.795000, prob_rec_full=0.000000
+2025-11-28 14:53:50,162 [DEBUG] CI replication 16 for config 4P5R with seed 32015
+2025-11-28 14:53:50,162 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32015, scenario=original
+2025-11-28 14:53:50,162 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,163 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,168 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.971000, prob_rec_full=0.000000
+2025-11-28 14:53:50,168 [DEBUG] CI replication 17 for config 4P5R with seed 32016
+2025-11-28 14:53:50,168 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32016, scenario=original
+2025-11-28 14:53:50,168 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,169 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,174 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.014000, avg_prep_idle=2.295000, prob_rec_full=0.000000
+2025-11-28 14:53:50,174 [DEBUG] CI replication 18 for config 4P5R with seed 32017
+2025-11-28 14:53:50,174 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32017, scenario=original
+2025-11-28 14:53:50,175 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,175 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,180 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.306000, prob_rec_full=0.000000
+2025-11-28 14:53:50,181 [DEBUG] CI replication 19 for config 4P5R with seed 32018
+2025-11-28 14:53:50,181 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32018, scenario=original
+2025-11-28 14:53:50,181 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,182 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,191 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.027000, avg_prep_idle=2.185000, prob_rec_full=0.000000
+2025-11-28 14:53:50,191 [DEBUG] CI replication 20 for config 4P5R with seed 32019
+2025-11-28 14:53:50,191 [DEBUG] Running one replication: P=4, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=32019, scenario=original
+2025-11-28 14:53:50,191 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,192 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,197 [DEBUG] Replication finished: P=4, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.000000, avg_prep_idle=2.637000, prob_rec_full=0.000000
+2025-11-28 14:53:50,197 [INFO] Config 4P5R: block mean=0.000000, half=0.000000, rel=-1.0000; rec_full mean=0.000000, half=0.000000, rel=-1.0000
+2025-11-28 14:53:50,197 [INFO] Starting twisted scenario experiment for 3P5R
+2025-11-28 14:53:50,197 [DEBUG] Twisted replication 1 with shared seed 40000
+2025-11-28 14:53:50,197 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40000, scenario=original
+2025-11-28 14:53:50,198 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,199 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,205 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.111000, avg_prep_idle=1.533000, prob_rec_full=0.000000
+2025-11-28 14:53:50,205 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40000, scenario=twisted
+2025-11-28 14:53:50,205 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,206 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,214 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.180000, avg_prep_idle=1.294000, prob_rec_full=0.000000
+2025-11-28 14:53:50,214 [DEBUG] Twisted replication 2 with shared seed 40001
+2025-11-28 14:53:50,214 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40001, scenario=original
+2025-11-28 14:53:50,214 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,216 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,224 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.001000, avg_prep_idle=2.106000, prob_rec_full=0.000000
+2025-11-28 14:53:50,225 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40001, scenario=twisted
+2025-11-28 14:53:50,225 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,226 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,235 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.917000, avg_prep_idle=1.200000, prob_rec_full=0.000000
+2025-11-28 14:53:50,235 [DEBUG] Twisted replication 3 with shared seed 40002
+2025-11-28 14:53:50,235 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40002, scenario=original
+2025-11-28 14:53:50,235 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,236 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,241 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.954000, avg_prep_idle=0.945000, prob_rec_full=0.000000
+2025-11-28 14:53:50,241 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40002, scenario=twisted
+2025-11-28 14:53:50,242 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,242 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,248 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.001000, avg_prep_idle=1.670000, prob_rec_full=0.000000
+2025-11-28 14:53:50,248 [DEBUG] Twisted replication 4 with shared seed 40003
+2025-11-28 14:53:50,248 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40003, scenario=original
+2025-11-28 14:53:50,248 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,249 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,254 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.267000, avg_prep_idle=1.765000, prob_rec_full=0.000000
+2025-11-28 14:53:50,254 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40003, scenario=twisted
+2025-11-28 14:53:50,254 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,255 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,260 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.184000, avg_prep_idle=1.410000, prob_rec_full=0.000000
+2025-11-28 14:53:50,261 [DEBUG] Twisted replication 5 with shared seed 40004
+2025-11-28 14:53:50,261 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40004, scenario=original
+2025-11-28 14:53:50,261 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,262 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,267 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.021000, avg_prep_idle=1.894000, prob_rec_full=0.000000
+2025-11-28 14:53:50,267 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40004, scenario=twisted
+2025-11-28 14:53:50,267 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,268 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,275 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.182000, avg_prep_idle=1.644000, prob_rec_full=0.000000
+2025-11-28 14:53:50,275 [DEBUG] Twisted replication 6 with shared seed 40005
+2025-11-28 14:53:50,275 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40005, scenario=original
+2025-11-28 14:53:50,275 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,276 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,283 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.382000, avg_prep_idle=1.046000, prob_rec_full=0.000000
+2025-11-28 14:53:50,283 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40005, scenario=twisted
+2025-11-28 14:53:50,283 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,284 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,289 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.084000, avg_prep_idle=1.504000, prob_rec_full=0.000000
+2025-11-28 14:53:50,289 [DEBUG] Twisted replication 7 with shared seed 40006
+2025-11-28 14:53:50,289 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40006, scenario=original
+2025-11-28 14:53:50,289 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,290 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,295 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.071000, avg_prep_idle=1.784000, prob_rec_full=0.000000
+2025-11-28 14:53:50,295 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40006, scenario=twisted
+2025-11-28 14:53:50,295 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,296 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,302 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.332000, avg_prep_idle=1.908000, prob_rec_full=0.000000
+2025-11-28 14:53:50,302 [DEBUG] Twisted replication 8 with shared seed 40007
+2025-11-28 14:53:50,302 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40007, scenario=original
+2025-11-28 14:53:50,302 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,303 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,309 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.060000, avg_prep_idle=1.705000, prob_rec_full=0.000000
+2025-11-28 14:53:50,309 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40007, scenario=twisted
+2025-11-28 14:53:50,309 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,310 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,315 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.164000, avg_prep_idle=1.553000, prob_rec_full=0.000000
+2025-11-28 14:53:50,315 [DEBUG] Twisted replication 9 with shared seed 40008
+2025-11-28 14:53:50,315 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40008, scenario=original
+2025-11-28 14:53:50,315 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,317 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,323 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=1.083000, avg_prep_idle=0.873000, prob_rec_full=0.000000
+2025-11-28 14:53:50,323 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40008, scenario=twisted
+2025-11-28 14:53:50,323 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,324 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,329 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.099000, avg_prep_idle=1.511000, prob_rec_full=0.000000
+2025-11-28 14:53:50,329 [DEBUG] Twisted replication 10 with shared seed 40009
+2025-11-28 14:53:50,329 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40009, scenario=original
+2025-11-28 14:53:50,330 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,330 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,335 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.005000, avg_prep_idle=1.489000, prob_rec_full=0.000000
+2025-11-28 14:53:50,336 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40009, scenario=twisted
+2025-11-28 14:53:50,336 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,337 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,343 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.083000, avg_prep_idle=1.486000, prob_rec_full=0.000000
+2025-11-28 14:53:50,343 [DEBUG] Twisted replication 11 with shared seed 40010
+2025-11-28 14:53:50,343 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40010, scenario=original
+2025-11-28 14:53:50,343 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,344 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,349 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.799000, avg_prep_idle=1.027000, prob_rec_full=0.000000
+2025-11-28 14:53:50,349 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40010, scenario=twisted
+2025-11-28 14:53:50,349 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,350 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,356 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.039000, avg_prep_idle=1.564000, prob_rec_full=0.000000
+2025-11-28 14:53:50,356 [DEBUG] Twisted replication 12 with shared seed 40011
+2025-11-28 14:53:50,356 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40011, scenario=original
+2025-11-28 14:53:50,356 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,357 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,362 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.033000, avg_prep_idle=1.867000, prob_rec_full=0.000000
+2025-11-28 14:53:50,362 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40011, scenario=twisted
+2025-11-28 14:53:50,362 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,363 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,368 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.230000, avg_prep_idle=1.666000, prob_rec_full=0.000000
+2025-11-28 14:53:50,368 [DEBUG] Twisted replication 13 with shared seed 40012
+2025-11-28 14:53:50,368 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40012, scenario=original
+2025-11-28 14:53:50,368 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,370 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,377 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.298000, avg_prep_idle=1.559000, prob_rec_full=0.000000
+2025-11-28 14:53:50,377 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40012, scenario=twisted
+2025-11-28 14:53:50,378 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,379 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,384 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.117000, avg_prep_idle=1.654000, prob_rec_full=0.000000
+2025-11-28 14:53:50,384 [DEBUG] Twisted replication 14 with shared seed 40013
+2025-11-28 14:53:50,384 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40013, scenario=original
+2025-11-28 14:53:50,384 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,385 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,391 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.025000, avg_prep_idle=1.826000, prob_rec_full=0.000000
+2025-11-28 14:53:50,391 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40013, scenario=twisted
+2025-11-28 14:53:50,391 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,392 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,396 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.073000, avg_prep_idle=2.030000, prob_rec_full=0.000000
+2025-11-28 14:53:50,397 [DEBUG] Twisted replication 15 with shared seed 40014
+2025-11-28 14:53:50,397 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40014, scenario=original
+2025-11-28 14:53:50,397 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,398 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,409 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.015000, avg_prep_idle=1.851000, prob_rec_full=0.000000
+2025-11-28 14:53:50,409 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40014, scenario=twisted
+2025-11-28 14:53:50,409 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,411 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,419 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.015000, avg_prep_idle=1.819000, prob_rec_full=0.000000
+2025-11-28 14:53:50,419 [DEBUG] Twisted replication 16 with shared seed 40015
+2025-11-28 14:53:50,419 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40015, scenario=original
+2025-11-28 14:53:50,420 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,421 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,428 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.564000, avg_prep_idle=1.371000, prob_rec_full=0.000000
+2025-11-28 14:53:50,428 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40015, scenario=twisted
+2025-11-28 14:53:50,428 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,429 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,433 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.033000, avg_prep_idle=2.096000, prob_rec_full=0.000000
+2025-11-28 14:53:50,433 [DEBUG] Twisted replication 17 with shared seed 40016
+2025-11-28 14:53:50,433 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40016, scenario=original
+2025-11-28 14:53:50,434 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,435 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,441 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=1.481000, avg_prep_idle=0.812000, prob_rec_full=0.000000
+2025-11-28 14:53:50,441 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40016, scenario=twisted
+2025-11-28 14:53:50,441 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,442 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,451 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.946000, avg_prep_idle=0.639000, prob_rec_full=0.000000
+2025-11-28 14:53:50,451 [DEBUG] Twisted replication 18 with shared seed 40017
+2025-11-28 14:53:50,451 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40017, scenario=original
+2025-11-28 14:53:50,452 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,454 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,463 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.481000, avg_prep_idle=0.952000, prob_rec_full=0.000000
+2025-11-28 14:53:50,464 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40017, scenario=twisted
+2025-11-28 14:53:50,464 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,466 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,472 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.019000, avg_prep_idle=1.786000, prob_rec_full=0.000000
+2025-11-28 14:53:50,472 [DEBUG] Twisted replication 19 with shared seed 40018
+2025-11-28 14:53:50,472 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40018, scenario=original
+2025-11-28 14:53:50,472 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,473 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,478 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.055000, avg_prep_idle=1.638000, prob_rec_full=0.000000
+2025-11-28 14:53:50,478 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40018, scenario=twisted
+2025-11-28 14:53:50,478 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,479 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,484 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.775000, avg_prep_idle=1.233000, prob_rec_full=0.000000
+2025-11-28 14:53:50,484 [DEBUG] Twisted replication 20 with shared seed 40019
+2025-11-28 14:53:50,484 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40019, scenario=original
+2025-11-28 14:53:50,484 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,485 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,490 [DEBUG] Replication finished: P=3, R=5, scenario=original, block_rate=0.000000, avg_qprep=0.143000, avg_prep_idle=1.936000, prob_rec_full=0.000000
+2025-11-28 14:53:50,490 [DEBUG] Running one replication: P=3, R=5, OP=1, sim_time=1000.000, warmup=200.000, seed=40019, scenario=twisted
+2025-11-28 14:53:50,491 [DEBUG] Starting warm-up period of length 200.000
+2025-11-28 14:53:50,493 [DEBUG] Warm-up finished at time 200.000, starting observation
+2025-11-28 14:53:50,498 [DEBUG] Replication finished: P=3, R=5, scenario=twisted, block_rate=0.000000, avg_qprep=0.076000, avg_prep_idle=1.710000, prob_rec_full=0.000000
+2025-11-28 14:53:50,498 [INFO] P(block OR): mean_diff=0.000000, 95%CI=(0.000000,0.000000)
+2025-11-28 14:53:50,499 [INFO] avg queue before prep: mean_diff=-0.115000, 95%CI=(-0.345740,0.115740)
+2025-11-28 14:53:50,499 [INFO] P(all recovery busy): mean_diff=0.000000, 95%CI=(0.000000,0.000000)
+2025-11-28 14:53:50,499 [INFO] All experiments completed
